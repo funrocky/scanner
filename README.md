@@ -101,3 +101,7 @@ Banner: <a href="https://unsplash.com/@microsoftedge">Microsoft Edge on Unsplash
 ## Privacy policy
 
 You can find the privacy policy [here](https://simon-knuth.github.io/scanner/privacy-policy.html).
+
+&nbsp;
+## reference
+https://learn.microsoft.com/zh-cn/windows/uwp/devices-sensors/scan-from-your-app
